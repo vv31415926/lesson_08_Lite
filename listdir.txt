@@ -1,0 +1,2 @@
+files: fileManager.py,history.json,LICENSE,listdir.txt,menuAcc.py,myLibAcc.py,myLibManager.py,persAccount.py,README.md,test_account.py,test_filemanager.py,victory.py
+dirs: .git,.idea,__pycache__
